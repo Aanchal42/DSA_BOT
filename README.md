@@ -30,7 +30,9 @@ Built with **pure HTML, CSS, and JavaScript**, this project provides a simple an
 ### 1️⃣ Clone the repository
 i clone https://github.com/your-username/dsa-bot.git
 cd dsa-bot
- 2️⃣ Add your Gemini API Key
+
+
+2️⃣ Add your Gemini API Key
 
 Open script.js and replace:
 
